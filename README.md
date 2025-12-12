@@ -1,5 +1,5 @@
-Ragnarok apk 
-
+Ragnarok apk Client
+Play Ragnarok LAN on Your Mobile 
 localhost
 
 just sample!
