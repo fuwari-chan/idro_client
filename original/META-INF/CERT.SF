@@ -1,0 +1,556 @@
+Signature-Version: 1.0
+Created-By: App Cloner
+SHA1-Digest-Manifest: qC6B389xno0TUz/2H5rL23/ULTQ=
+
+Name: res/layout/guild_expulsions_item.xml
+SHA1-Digest: kULL4y5FIcHUl/NWM4bp6X8TIlw=
+
+Name: res/layout/profile.xml
+SHA1-Digest: dQbH8qRMclBFwD6vK51ANn4WhHI=
+
+Name: res/drawable-hdpi-v4/ru.png
+SHA1-Digest: +9cz6F4RivsQODDOx8ZRVpaW1ZY=
+
+Name: res/layout/storage_pager_item.xml
+SHA1-Digest: 11UoA2WQE3k2L+ONNrKSqEIV4VY=
+
+Name: res/layout/npcshop.xml
+SHA1-Digest: ZNAud0aNEmPZvMhHtA5fnDwnv2g=
+
+Name: res/raw/packet_db.txt
+SHA1-Digest: Bu4dyVzeORDcv3Wzlh7iATPixMg=
+
+Name: res/drawable-hdpi-v4/loading01.jpg
+SHA1-Digest: 3YWx4NPVkZHW7/wzBa+2ez1jCRE=
+
+Name: res/layout/emotion.xml
+SHA1-Digest: MnGKKp8XJCaJO5f1EcpuF8nc+h4=
+
+Name: res/layout/hockeyapp_activity_login.xml
+SHA1-Digest: f9a55kYfe8S6LhSW6FojY1a2U+0=
+
+Name: res/layout/respawn.xml
+SHA1-Digest: O9AesDk7+bGcYGTnbtoXaIeQ7b4=
+
+Name: res/layout/trade.xml
+SHA1-Digest: EpUPtyVNPJvTQ3vnnuDKbFM9k+Y=
+
+Name: res/layout/statushomun.xml
+SHA1-Digest: QT7JaVbAe/yzW1yTLhmPikFBcP0=
+
+Name: res/drawable/hockeyapp_btn_background.xml
+SHA1-Digest: P55kF48mdJbo9Xshu+OoMyduNtM=
+
+Name: res/drawable-hdpi-v4/th.png
+SHA1-Digest: yDiVyv2VHtCwz5ZQ5qDfFRmSvXw=
+
+Name: res/drawable/menu_ninepatch.xml
+SHA1-Digest: qWB000BBA/hX1ISV7Du+vApiZB8=
+
+Name: res/layout/char_select_view.xml
+SHA1-Digest: V7l9cQx8ND3CPI4OwxsNs7eHcnI=
+
+Name: res/layout/hockeyapp_view_feedback_message.xml
+SHA1-Digest: lpiAMxR7upEFu+2vGhvEcN8hRs0=
+
+Name: res/layout/guild_basic.xml
+SHA1-Digest: yrrNP7I7NC3THl49ArfYakO5p3I=
+
+Name: res/layout/name_caption.xml
+SHA1-Digest: JR1W8HOyo3fSOBC5eGFwVjKNheI=
+
+Name: res/layout/select_client_dir_item.xml
+SHA1-Digest: LaAQMKfWd1KFbGy0oH742d/0Q2w=
+
+Name: res/drawable-hdpi-v4/btn_pick.png
+SHA1-Digest: fcj0v+mIdIXkZv/JuOJVpy0QV7g=
+
+Name: res/drawable-hdpi-v4/btn_1on1_a.png
+SHA1-Digest: GBLbqfe+ZZeo9piG+KghQdUTss4=
+
+Name: res/raw/stateicon_extracted.txt
+SHA1-Digest: C1+LBZcMAngSmrMk6kZLOJvpcK8=
+
+Name: res/drawable-hdpi-v4/poring_2.png
+SHA1-Digest: BHEYzsVcF3bddiRUZiuMlmiiG8E=
+
+Name: res/layout/inventory_pager_item.xml
+SHA1-Digest: cuPRBCosY/f+v47HKge5tlwuZ9Y=
+
+Name: res/layout/inventory_item_menu.xml
+SHA1-Digest: 6KuyekxX7Q0E6DsiFu5neEiz+Ak=
+
+Name: assets/.iconFile
+SHA1-Digest: 7Qdoe2GlWH1iNj6ND+jVJt+2wSk=
+
+Name: res/layout/connecting.xml
+SHA1-Digest: rD7zQCHnEBN5XUdm/I8iiYISF08=
+
+Name: res/drawable-hdpi-v4/eu.png
+SHA1-Digest: cTQuZocyGH0iMeLkJPtYJcZdYVg=
+
+Name: res/layout/statusmercenary.xml
+SHA1-Digest: 2Y5zYCaxx8b20ua1e726oECVhL4=
+
+Name: res/drawable-hdpi-v4/ragnaroklogo.png
+SHA1-Digest: OpjlkVTLPRyeF6FMUZs2xOQUsa0=
+
+Name: res/layout/rodex_letter_preview.xml
+SHA1-Digest: cEtoSc7xVd0OvZ5CTfpStthdhv8=
+
+Name: res/raw/fragment_shader.java
+SHA1-Digest: nbe72fadB+yyfV/SeZqrWVNnx40=
+
+Name: classes2.dex
+SHA1-Digest: 0tuiuz0d7YcG/1Cy08FRgDiHMFI=
+
+Name: res/layout/profile_mini.xml
+SHA1-Digest: ++riQJEZF8BgYuyxYIo8dpgyPRg=
+
+Name: res/layout/storage2.xml
+SHA1-Digest: HpGL96icvfkLaKDYahUQWAozZLc=
+
+Name: res/drawable-hdpi-v4/us.png
+SHA1-Digest: I5QQmI54EaHOVxvqmtwbE6bnvQM=
+
+Name: res/layout/skill_menu.xml
+SHA1-Digest: 6Z3F9pXb50fck8aaxfSP9yO8gkA=
+
+Name: res/layout/npcshop_item.xml
+SHA1-Digest: rsUucIrH3shwLFaX2v/O4YeoGRo=
+
+Name: res/layout/sc_icon.xml
+SHA1-Digest: ErAaEQWaEWu92vNv7ErMx8cMgHg=
+
+Name: lib/x86/libluajava.so
+SHA1-Digest: 3zu2E24KVZIQJE0wYvRpfiSJ+yU=
+
+Name: res/layout/guild_members_item.xml
+SHA1-Digest: JMFfMC52fqDBIf4TjVjmwtSvTcg=
+
+Name: res/layout/settings_ingame.xml
+SHA1-Digest: C24ZC8msZY38E0wNjFWfZGhLYR4=
+
+Name: lib/x86/libluajava50.so
+SHA1-Digest: 4DRJcBzvfmhtdFblwsZA/3M3Pqo=
+
+Name: res/layout/clear.xml
+SHA1-Digest: jwtmx7dSGbpi1OxGWpDby7V877M=
+
+Name: res/drawable/scriptmes_ninepatch.xml
+SHA1-Digest: X2WR1CArxAQwrk1f6EuZjRDmfEk=
+
+Name: mozilla/public-suffix-list.txt
+SHA1-Digest: 43zaeThzvKIMD2Naq8EVieOPSG8=
+
+Name: res/layout/party_organization.xml
+SHA1-Digest: kMnQM9Oh0KiLwFK4eYd9Hxq/9IU=
+
+Name: res/layout/option.xml
+SHA1-Digest: E7+bBG0Po67kApZMyWy/emRo1VM=
+
+Name: res/layout/guild_positions.xml
+SHA1-Digest: ozlYGiNoEu7MGQ7d3dljZsOvB5c=
+
+Name: lib/armeabi-v7a/libsandhook-native.so
+SHA1-Digest: sebiLIAdpSYMmyMjhWzdpmF+CMg=
+
+Name: resources.arsc
+SHA1-Digest: PfjGkrwOmZms6DxkNHJ2ERhFMhk=
+
+Name: res/layout/inventory_item.xml
+SHA1-Digest: qJWorDbOeZ1z7RkTDWrmZeerfM4=
+
+Name: res/raw/job_name_msgid.txt
+SHA1-Digest: pFMsdRSNbPDQZCFcQO8zaS4MfVo=
+
+Name: res/raw/weapontable.lua
+SHA1-Digest: NgDT6gryOYXycAVGV0fTsNvayQ8=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 71hEFF2wi4jdv0W/SFFouzxfJBY=
+
+Name: assets/jobname.lub
+SHA1-Digest: DAcFFmAlyzJXtht14QN1/xqBb+g=
+
+Name: res/layout/char_select_pager.xml
+SHA1-Digest: 17j/SGdSplxVGDeEJCBSAzHh88g=
+
+Name: res/layout/hockeyapp_activity_feedback.xml
+SHA1-Digest: WwRSBaRe6gBRcHTUkjTiFzoAApw=
+
+Name: res/layout/friends_item.xml
+SHA1-Digest: YIqmjkKADl2q5fWJeSE7zqYrq/A=
+
+Name: res/layout/open_autobuy_item.xml
+SHA1-Digest: R8N3EsYWl43JRR5weNbD03wif3c=
+
+Name: res/layout/npcinput.xml
+SHA1-Digest: QxyYTyh6yu+qXroEuSl/yv3K29w=
+
+Name: res/drawable/menu_ninepatch_black.xml
+SHA1-Digest: oExaXT2PFOoeT4V9Jbwb6afn1Oo=
+
+Name: assets/MontserratSans.otf
+SHA1-Digest: lvlyfl45PXyEHuA6XTjqn0Vc59Y=
+
+Name: res/layout/emotion_item.xml
+SHA1-Digest: DAGpJuPOlHXkQaLctiG8ryqqnVM=
+
+Name: res/raw/job.txt
+SHA1-Digest: MZlH9HugdzqOEsk6yd0ot267WoQ=
+
+Name: res/layout/magnifier.xml
+SHA1-Digest: j1pT1AVrfUPNp4I315RI0sw2ytA=
+
+Name: res/layout/debug.xml
+SHA1-Digest: TaBEXH8lvEd3rwEtMMOhf1ycJNY=
+
+Name: res/layout/friends.xml
+SHA1-Digest: FlZeisQRaVJ+M/c0gP56lGrzaT0=
+
+Name: res/raw/packets.h
+SHA1-Digest: xvr1npe+M4FRsFB1NpbLlMEBBFQ=
+
+Name: res/layout/select_char_server.xml
+SHA1-Digest: EcjpWFl6CuUHdvO3q/CAm8cNXV0=
+
+Name: lib/armeabi-v7a/libnatives.so
+SHA1-Digest: No/t6r/PP8y8ptOLrNxWtlZeXzg=
+
+Name: res/layout/rodex_letter_write.xml
+SHA1-Digest: vxAGQ+3zhYUMRMDN3GbYV0aqGPE=
+
+Name: res/layout/guild_skills.xml
+SHA1-Digest: 9lEi8V2THb5bgG1lKHHg8BKxEeE=
+
+Name: res/layout/status.xml
+SHA1-Digest: FXm9LCsnwWvC7pGta3AnI2YHI2s=
+
+Name: res/layout/storage.xml
+SHA1-Digest: 5oUsKXEeJFcWikIBQaA4DNVntO0=
+
+Name: res/layout/equip_element_l.xml
+SHA1-Digest: awgHAydHsaIJjssLeD3kpX7x/lg=
+
+Name: res/drawable-hdpi-v4/btn_pick_a.png
+SHA1-Digest: peUtfAV3Au9ITwdy/rUIW0A3WoY=
+
+Name: res/layout/cashshop.xml
+SHA1-Digest: S0hb4zvy9iJsk1rPcN0M4bqMvcc=
+
+Name: res/layout/homun_control.xml
+SHA1-Digest: wwvnmmiBSqQGhVuukHF/q4JucsQ=
+
+Name: res/layout/chatroom.xml
+SHA1-Digest: Bw7sj7w6NJ0CLBs3HCtEvv5940M=
+
+Name: res/layout/npcbuysell.xml
+SHA1-Digest: EImXSF9vuAN1rTuu5T0ENiNZW/o=
+
+Name: res/layout/spinner_item.xml
+SHA1-Digest: 9g3kN1iq9J0n5hj3KFcgA/VEIJA=
+
+Name: res/layout/skills_entry.xml
+SHA1-Digest: uKcUFss2LzMjoCkKk7yBRGPiKXo=
+
+Name: assets/natives_sec_blob.dat
+SHA1-Digest: IfwU1AHcqz6gdLsQTBrfuvxgVFU=
+
+Name: res/layout/shortcuts_item.xml
+SHA1-Digest: AWj/7kYCOsieDAQzpkTLx1Tl+zs=
+
+Name: res/drawable-hdpi-v4/id.png
+SHA1-Digest: Q743clT1ET3225ESeTTNIdt7p1U=
+
+Name: res/raw/debug_fragment_shader.java
+SHA1-Digest: s06116s1XeVCYD+MLkADVIA3/yQ=
+
+Name: res/raw/weaponid2view.txt
+SHA1-Digest: cGyxjNmtAdQVPA0PkP3YZHhoGHU=
+
+Name: res/drawable-hdpi-v4/sg.png
+SHA1-Digest: REeBmdUKb4fYLW1yCwkIv7Bxbcg=
+
+Name: res/layout/download_doublebar.xml
+SHA1-Digest: ZaE9GIMeTWrPldO7sDHIo1DVNbs=
+
+Name: res/layout/screen_text.xml
+SHA1-Digest: MVg3sirIq6bKkZPQ3XXJS5kaVVg=
+
+Name: res/layout/select_login_server.xml
+SHA1-Digest: nw/12Ss1AvPg6bEUQGt1pXGN0EM=
+
+Name: res/drawable/menu_ninepatch_white.xml
+SHA1-Digest: NhRqL4UTh9P1Hk/iAm7jZ4zpLcE=
+
+Name: res/layout/party_item.xml
+SHA1-Digest: jT8E81tuw7VnLUiXdxYiBFw9v9o=
+
+Name: cloneSettings.json
+SHA1-Digest: 9ACjcuuiYZ0Sjh+oMVDZTXnApWc=
+
+Name: res/layout/hockeyapp_activity_expiry_info.xml
+SHA1-Digest: 3Q6+JE2EE4cueTgYNwj8gK40xC8=
+
+Name: lib/x86/libgrf.so
+SHA1-Digest: BZ1qmXkTHzRqKC3SSm/TJBaE61U=
+
+Name: res/layout/rodex.xml
+SHA1-Digest: mVryySqo9MGdRI7R87J/uqLQ2rM=
+
+Name: res/layout/npcdialog.xml
+SHA1-Digest: yuFZwg2dDPkdBL0HgengCtAWCKA=
+
+Name: res/raw/tips.txt
+SHA1-Digest: Kau6WlJY2CnxVJ4hksuHs5QpjeI=
+
+Name: res/layout/select_client_dir.xml
+SHA1-Digest: aMsyVFnzSDWY8icuav+ZQVCwfiU=
+
+Name: res/layout/skills.xml
+SHA1-Digest: Cb1641PAFKGRZPaj4trMSocKaTw=
+
+Name: res/layout/autobuyshop.xml
+SHA1-Digest: cxdeoYa8oGg98ABcxdyCvHmwI/w=
+
+Name: res/layout-land/hockeyapp_activity_update.xml
+SHA1-Digest: LcDhu8s0XHAgRrw7noIrOVPhpJs=
+
+Name: lib/x86/libnatives.so
+SHA1-Digest: IL5pFoXg6bQLRjSXTpo9QGcWpjM=
+
+Name: res/layout/cashshop_item.xml
+SHA1-Digest: 87MGzc1d61MLBC4h+pRupROTpdk=
+
+Name: lib/armeabi-v7a/libsandhook.so
+SHA1-Digest: WeVF6b/h2jWYxKni1PC3RaA8g5w=
+
+Name: lib/armeabi-v7a/libgrf.so
+SHA1-Digest: sv1A+VzQ15ZVn2mkJugNYazrbak=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: deexstYjKDmWNkv147GMu95kkHY=
+
+Name: res/layout/open_vending.xml
+SHA1-Digest: 2qvFhWLqySkmKRlDq1K+mDqz+uQ=
+
+Name: res/layout/ability.xml
+SHA1-Digest: BNoNXiigk0LY13N33Fp5p5UjWZo=
+
+Name: res/layout/equip_element_r.xml
+SHA1-Digest: nrGZ7Ir5T3OFlf+fE34Z7jMs74U=
+
+Name: org/apache/http/client/version.properties
+SHA1-Digest: ku/rgRtKZewO1khwVpB3WptUYWw=
+
+Name: res/layout/gamemenu_item.xml
+SHA1-Digest: 64DxyXKdtrrFKT2qFwAM6QiS43A=
+
+Name: res/drawable-hdpi-v4/dpad_small2.png
+SHA1-Digest: fa+6iqZx39IYsVffGKSwekFtaQs=
+
+Name: res/layout/hockeyapp_activity_update.xml
+SHA1-Digest: TE0cKcFQGTehyQcz2UYmR7ZzILA=
+
+Name: res/layout/loading.xml
+SHA1-Digest: uZJaKE5avNppxI1zlgyjy7X23Kw=
+
+Name: res/layout/char_select_create.xml
+SHA1-Digest: OQKktbn6UTEiN/ewU6EPA0nrB9Y=
+
+Name: res/layout/rodex_letter_read.xml
+SHA1-Digest: yj6AuO4LAc7N8toSQ6clxN4q7UE=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: TIP+Uvqwe+AAOxH12mLL5Pd+6Jk=
+
+Name: res/drawable/editbox_ninepatch_white.xml
+SHA1-Digest: 2/qWp2vukh7mcYM6Hr1k9ZbXm9s=
+
+Name: res/layout/settings_item.xml
+SHA1-Digest: fawzp+Q8NYxDxGQj3qpTfmhqSAQ=
+
+Name: assets/skillid.lub
+SHA1-Digest: 7wGq0STmjrzdae55gY9j7QGTJLg=
+
+Name: res/layout/inventory_pager_cart.xml
+SHA1-Digest: IF8Oy2phG2sWCgGgbZyrYTH44L8=
+
+Name: res/drawable/name_bubble.xml
+SHA1-Digest: hDGS0JFcURaU0Y+ba7j1j6UWWcw=
+
+Name: res/raw/shield.txt
+SHA1-Digest: MNOkb4GlwJqWr6a77yyvCtc6q5Q=
+
+Name: res/drawable-hdpi-v4/empty_card_slot.bmp
+SHA1-Digest: u0RM8TNLAD4mainRFXtKuPSKGfA=
+
+Name: assets/jobinheritlist.lub
+SHA1-Digest: LejpCKR7EJA2Si5CWFeCiwMjzgU=
+
+Name: assets/npcidentity.lub
+SHA1-Digest: IQ+Z1AtnnJswErNEfZ0TYwdk2fE=
+
+Name: res/layout/petinfo.xml
+SHA1-Digest: Q3vdWcpmb/B5BiiUznia0+zYO7I=
+
+Name: res/drawable-hdpi-v4/gb.png
+SHA1-Digest: 1v/BImzLANv/4W137mShtyL3KV4=
+
+Name: res/raw/sc_old.txt
+SHA1-Digest: RCLUrs8uX2Zk0HsHV+ffz3R7sCc=
+
+Name: res/layout/guild_expulsions.xml
+SHA1-Digest: HKYj9GNtiyI5QMGyB+M/EeHLNAE=
+
+Name: lib/x86/libcrystax.so
+SHA1-Digest: A5Q+SuK+FRHOCorJfRK3P7pj0jY=
+
+Name: res/drawable/ninepatch_thinborder.xml
+SHA1-Digest: BQ+/hcbbC9sEtW7JiXkbvhQsTNs=
+
+Name: res/layout/bank.xml
+SHA1-Digest: Ih7rbtmW0iGvLIxBAnf+IH9CrTw=
+
+Name: res/layout/caching_grf.xml
+SHA1-Digest: 60q5SKqTFCAMr2/2FmbHglc051M=
+
+Name: res/layout/open_vending_item.xml
+SHA1-Digest: a3nC7+GUGAFGy7Yl70RI8S7gcDE=
+
+Name: res/layout/overhead_box.xml
+SHA1-Digest: J4MYjpWDejBPVIWsNCp+Ye8eg7Y=
+
+Name: lib/armeabi-v7a/libluajava50.so
+SHA1-Digest: zhRqxK66kRftS1hyD0Au2SjIOEc=
+
+Name: res/raw/vertex_shader.java
+SHA1-Digest: QYLYkxYXop7r65YJU3vvh0GFJEw=
+
+Name: res/layout/rodex_page.xml
+SHA1-Digest: HPbT02mjCE0f2860Zy2ko6XJaDE=
+
+Name: res/layout/shortcuts.xml
+SHA1-Digest: b1G6T1nkJ3Rhfq1pGFRQ/U2zv40=
+
+Name: res/layout/hotkey_size.xml
+SHA1-Digest: aa1TOpNIBkkAsTUbNM61JL/hQZQ=
+
+Name: res/layout/quest.xml
+SHA1-Digest: 0JEE4VaZTZCVRCbxAYbSGnAzs4Y=
+
+Name: res/layout/settings_loginscreen.xml
+SHA1-Digest: KFg2udAYfZdQv1dNYhAhrQltARc=
+
+Name: res/layout/guild_members.xml
+SHA1-Digest: bRzghpeLJqSRrnFDpJ5K4wGxCv4=
+
+Name: org/apache/http/version.properties
+SHA1-Digest: IgqnzaQOlRxsu4n8cQysDiOkGm8=
+
+Name: res/raw/packet_db_iro.txt
+SHA1-Digest: UjQZ6FUPn+C+HiAToiqtXKfO3fI=
+
+Name: res/drawable-hdpi-v4/btn_1on1.png
+SHA1-Digest: fdII+Xwp5oBLfNWlBJxn69TQofc=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: IR3u/co5jK458+fdZOoXFldqvfQ=
+
+Name: res/drawable-hdpi-v4/background.jpg
+SHA1-Digest: 2dOI73y/k5gGP0rpG4yU0SXO+ZA=
+
+Name: res/layout/quest_item.xml
+SHA1-Digest: rwK7kZTlew9aGHVszkjYfg2CG3o=
+
+Name: res/layout/hockeyapp_fragment_update.xml
+SHA1-Digest: FnsbPRBMc9Y/zmkqgaqNuHk0oEk=
+
+Name: res/layout/start.xml
+SHA1-Digest: EaO1pyzLSQR2ovA5MCUjtO8u3s8=
+
+Name: res/raw/packets_custom.h
+SHA1-Digest: +K100DpixgM5vNay/C390HnVbNI=
+
+Name: res/layout/name_caption2.xml
+SHA1-Digest: IQFM6yUVPIwPP5UCKl/QjuY7vnc=
+
+Name: res/raw/job_mer.txt
+SHA1-Digest: WoDoLzr4Wj1X81pOnmjhPvfZwdo=
+
+Name: res/layout/itemdesc.xml
+SHA1-Digest: TStwLJ7iTYCV5DgQyQXPfnCiM/s=
+
+Name: res/layout/inventory2.xml
+SHA1-Digest: C+I+WMwB5QJIJc/Eh82mN1v/lx0=
+
+Name: res/raw/folder.txt
+SHA1-Digest: gfILbQuFRNXExArSbL80DeXj3Vk=
+
+Name: lib/armeabi-v7a/libappcloner.so
+SHA1-Digest: V08NleCrAtftNrW6ouliyCVQ+xw=
+
+Name: res/layout/cutin.xml
+SHA1-Digest: NaTAyHKgqHftnUf+Fc0qzR9z24M=
+
+Name: res/layout/guild_pager.xml
+SHA1-Digest: rKRRrLQ3rkkdIgmb9l5eE9JgqF0=
+
+Name: res/layout/hotkeyed_item.xml
+SHA1-Digest: jEOGGrDtpCx2e5etEak0do9ExIY=
+
+Name: res/layout/material_select.xml
+SHA1-Digest: MruvRlHoSMSTwIqWYpw5oxIH898=
+
+Name: res/layout/party.xml
+SHA1-Digest: ubPPDqhzL2GE1ArDog8nxJGc/vg=
+
+Name: res/layout/select_login_server_element.xml
+SHA1-Digest: M4OytFJS0UygH7rcLlPjgNRhUDw=
+
+Name: res/layout/main.xml
+SHA1-Digest: 2EWh2q46bEWutuieH8BOXNwMEJo=
+
+Name: res/layout/login.xml
+SHA1-Digest: WzgwBUNzg6Z/g4D3oJqMm3+qMkg=
+
+Name: res/drawable/menu_ninepatch_white2.xml
+SHA1-Digest: AQwc5MoNACeGH7gW1WbIZaopvpY=
+
+Name: res/layout/equip.xml
+SHA1-Digest: BRcXyBo7uTgvk7YR4btojGs0UO8=
+
+Name: res/layout/chatroom_create.xml
+SHA1-Digest: PY7OknDt06Ux0mL6kvlv179Ml0I=
+
+Name: res/raw/sc.txt
+SHA1-Digest: gbseowG6dQa7EyX24fZ9iFNVLdw=
+
+Name: res/layout/gamemenu.xml
+SHA1-Digest: z/sdW0euHHTvNaaoW5bT0Kd7D1c=
+
+Name: res/layout/guild_positions_item.xml
+SHA1-Digest: ggqz3WXtTT/AMZJClnY/3J62YaA=
+
+Name: res/drawable-hdpi-v4/dpad_small.png
+SHA1-Digest: VvEVNk4pMuq+86VLofeWFknT+6w=
+
+Name: lib/armeabi-v7a/libluajava.so
+SHA1-Digest: VQe6Y/up92k53t1GyMZRv50y348=
+
+Name: classes.dex
+SHA1-Digest: 0hT8hcnk+Ftyykq+MRqAF8oHmLw=
+
+Name: res/drawable-hdpi-v4/world_mob_off.png
+SHA1-Digest: eLn1NnPx4doAuC2KfWCywSwBfEQ=
+
+Name: lib/armeabi-v7a/libcrystax.so
+SHA1-Digest: NAjopjMMBzkYlJJAB5LcUeMby8I=
+
+Name: res/drawable-hdpi-v4/ph.png
+SHA1-Digest: pmvLM/7XZzf9W4mUwUuVptyCyHU=
+
+Name: res/drawable/rodex_rect_around_item.xml
+SHA1-Digest: +FbUuaN+uVNIQcZ4jY1f5PgoZwU=
+

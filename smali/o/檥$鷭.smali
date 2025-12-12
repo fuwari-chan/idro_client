@@ -1,0 +1,62 @@
+.class final Lo/檥$鷭;
+.super Ljava/lang/Object;
+.source ""
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lo/檥;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = "\u9ded"
+.end annotation
+
+
+# instance fields
+.field final synthetic Ą:Lo/檥;
+
+.field ȃ:I
+
+.field ˮ͈:I
+
+.field 櫯:I
+
+.field 鷭:B
+
+
+# direct methods
+.method constructor <init>(Lo/檥;Ljava/nio/ByteBuffer;)V
+    .locals 1
+
+    iput-object p1, p0, Lo/檥$鷭;->Ą:Lo/檥;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    invoke-virtual {p2}, Ljava/nio/ByteBuffer;->get()B
+
+    move-result v0
+
+    iput-byte v0, p0, Lo/檥$鷭;->鷭:B
+
+    invoke-virtual {p2}, Ljava/nio/ByteBuffer;->getInt()I
+
+    move-result v0
+
+    iput v0, p0, Lo/檥$鷭;->櫯:I
+
+    invoke-virtual {p2}, Ljava/nio/ByteBuffer;->getInt()I
+
+    move-result v0
+
+    iput v0, p0, Lo/檥$鷭;->ˮ͈:I
+
+    invoke-virtual {p2}, Ljava/nio/ByteBuffer;->getInt()I
+
+    move-result v0
+
+    iput v0, p0, Lo/檥$鷭;->ȃ:I
+
+    return-void
+.end method

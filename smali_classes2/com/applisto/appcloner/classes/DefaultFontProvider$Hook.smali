@@ -1,0 +1,100 @@
+.class public Lcom/applisto/appcloner/classes/DefaultFontProvider$Hook;
+.super Ljava/lang/Object;
+.source "DefaultFontProvider.java"
+
+
+# annotations
+.annotation runtime Lcom/swift/sandhook/annotation/HookReflectClass;
+    value = "android.graphics.Paint"
+.end annotation
+
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/applisto/appcloner/classes/DefaultFontProvider;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x9
+    name = "Hook"
+.end annotation
+
+
+# static fields
+.field static setTypefaceBackup:Ljava/lang/reflect/Method;
+    .annotation runtime Lcom/swift/sandhook/annotation/HookMethodBackup;
+        value = "setTypeface"
+    .end annotation
+
+    .annotation runtime Lcom/swift/sandhook/annotation/MethodParams;
+        value = {
+            Landroid/graphics/Typeface;
+        }
+    .end annotation
+.end field
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .line 69
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+.method public static setTypefaceHook(Ljava/lang/Object;Landroid/graphics/Typeface;)Landroid/graphics/Typeface;
+    .locals 4
+    .param p0, "thiz"    # Ljava/lang/Object;
+    .param p1, "tf"    # Landroid/graphics/Typeface;
+    .annotation runtime Lcom/swift/sandhook/annotation/HookMethod;
+        value = "setTypeface"
+    .end annotation
+
+    .annotation runtime Lcom/swift/sandhook/annotation/MethodParams;
+        value = {
+            Landroid/graphics/Typeface;
+        }
+    .end annotation
+
+    .line 81
+    :try_start_0
+    sget-object v0, Lcom/applisto/appcloner/classes/DefaultFontProvider$Hook;->setTypefaceBackup:Ljava/lang/reflect/Method;
+
+    const/4 v1, 0x1
+
+    new-array v1, v1, [Ljava/lang/Object;
+
+    const/4 v2, 0x0
+
+    invoke-static {}, Lcom/applisto/appcloner/classes/DefaultFontProvider;->access$000()Landroid/graphics/Typeface;
+
+    move-result-object v3
+
+    aput-object v3, v1, v2
+
+    invoke-static {v0, p0, v1}, Lcom/applisto/appcloner/hooking/Hooking;->callInstanceOrigin(Ljava/lang/reflect/Method;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;
+
+    .line 82
+    invoke-static {}, Lcom/applisto/appcloner/classes/DefaultFontProvider;->access$000()Landroid/graphics/Typeface;
+
+    move-result-object v0
+    :try_end_0
+    .catchall {:try_start_0 .. :try_end_0} :catchall_0
+
+    return-object v0
+
+    .line 83
+    :catchall_0
+    move-exception v0
+
+    .line 84
+    .local v0, "t":Ljava/lang/Throwable;
+    invoke-static {}, Lcom/applisto/appcloner/classes/DefaultFontProvider;->access$100()Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-static {v1, v0}, Landroid/util/Log;->w(Ljava/lang/String;Ljava/lang/Throwable;)I
+
+    .line 85
+    return-object p1
+.end method

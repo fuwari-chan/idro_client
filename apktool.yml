@@ -1,0 +1,21 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: IdRO-Local256b.apk
+compressionType: false
+doNotCompress:
+- arsc
+- iconFile
+- so
+- png
+isFrameworkApk: false
+packageInfo: null
+sdkInfo: null
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  cloneSettings.json: '8'
+  mozilla/public-suffix-list.txt: '8'
+  org/apache/http/version.properties: '8'
+  org/apache/http/client/version.properties: '8'
+usesFramework: null
+version: 2.3.4
+versionInfo: null

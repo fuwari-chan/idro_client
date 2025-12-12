@@ -1,0 +1,111 @@
+.class public Lorg/apache/http/impl/conn/DefaultSchemePortResolver;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lorg/apache/http/conn/SchemePortResolver;
+
+
+# annotations
+.annotation build Lorg/apache/http/annotation/Contract;
+    threading = .enum Lorg/apache/http/annotation/ThreadingBehavior;->IMMUTABLE:Lorg/apache/http/annotation/ThreadingBehavior;
+.end annotation
+
+
+# static fields
+.field public static final INSTANCE:Lorg/apache/http/impl/conn/DefaultSchemePortResolver;
+
+
+# direct methods
+.method static <clinit>()V
+    .locals 1
+
+    new-instance v0, Lorg/apache/http/impl/conn/DefaultSchemePortResolver;
+
+    invoke-direct {v0}, Lorg/apache/http/impl/conn/DefaultSchemePortResolver;-><init>()V
+
+    sput-object v0, Lorg/apache/http/impl/conn/DefaultSchemePortResolver;->INSTANCE:Lorg/apache/http/impl/conn/DefaultSchemePortResolver;
+
+    return-void
+.end method
+
+.method public constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public resolve(Lorg/apache/http/HttpHost;)I
+    .locals 4
+
+    const-string v0, "HTTP host"
+
+    invoke-static {p1, v0}, Lorg/apache/http/util/Args;->notNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+
+    invoke-virtual {p1}, Lorg/apache/http/HttpHost;->getPort()I
+
+    move-result v3
+
+    if-lez v3, :cond_0
+
+    return v3
+
+    :cond_0
+    invoke-virtual {p1}, Lorg/apache/http/HttpHost;->getSchemeName()Ljava/lang/String;
+
+    move-result-object p1
+
+    const-string v0, "http"
+
+    invoke-virtual {p1, v0}, Ljava/lang/String;->equalsIgnoreCase(Ljava/lang/String;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_1
+
+    const/16 v0, 0x50
+
+    return v0
+
+    :cond_1
+    const-string v0, "https"
+
+    invoke-virtual {p1, v0}, Ljava/lang/String;->equalsIgnoreCase(Ljava/lang/String;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_2
+
+    const/16 v0, 0x1bb
+
+    return v0
+
+    :cond_2
+    new-instance v0, Lorg/apache/http/conn/UnsupportedSchemeException;
+
+    new-instance v1, Ljava/lang/StringBuilder;
+
+    invoke-direct {v1}, Ljava/lang/StringBuilder;-><init>()V
+
+    invoke-virtual {v1, p1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v1
+
+    const-string v2, " protocol is not supported"
+
+    invoke-virtual {v1, v2}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v1
+
+    invoke-virtual {v1}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-direct {v0, v1}, Lorg/apache/http/conn/UnsupportedSchemeException;-><init>(Ljava/lang/String;)V
+
+    throw v0
+.end method

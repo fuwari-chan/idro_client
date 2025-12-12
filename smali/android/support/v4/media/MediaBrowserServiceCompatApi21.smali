@@ -1,0 +1,60 @@
+.class Landroid/support/v4/media/MediaBrowserServiceCompatApi21;
+.super Ljava/lang/Object;
+.source ""
+
+
+# annotations
+.annotation system Ldalvik/annotation/MemberClasses;
+    value = {
+        Landroid/support/v4/media/MediaBrowserServiceCompatApi21$MediaBrowserServiceAdaptorApi21;,
+        Landroid/support/v4/media/MediaBrowserServiceCompatApi21$ServiceCallbacksApi21;,
+        Landroid/support/v4/media/MediaBrowserServiceCompatApi21$ServiceCallbacks;,
+        Landroid/support/v4/media/MediaBrowserServiceCompatApi21$ServiceImplApi21;
+    }
+.end annotation
+
+
+# direct methods
+.method constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+.method public static createService()Ljava/lang/Object;
+    .locals 1
+
+    new-instance v0, Landroid/support/v4/media/MediaBrowserServiceCompatApi21$MediaBrowserServiceAdaptorApi21;
+
+    invoke-direct {v0}, Landroid/support/v4/media/MediaBrowserServiceCompatApi21$MediaBrowserServiceAdaptorApi21;-><init>()V
+
+    return-object v0
+.end method
+
+.method public static onBind(Ljava/lang/Object;Landroid/content/Intent;)Landroid/os/IBinder;
+    .locals 1
+
+    move-object v0, p0
+
+    check-cast v0, Landroid/support/v4/media/MediaBrowserServiceCompatApi21$MediaBrowserServiceAdaptorApi21;
+
+    invoke-virtual {v0, p1}, Landroid/support/v4/media/MediaBrowserServiceCompatApi21$MediaBrowserServiceAdaptorApi21;->onBind(Landroid/content/Intent;)Landroid/os/IBinder;
+
+    move-result-object v0
+
+    return-object v0
+.end method
+
+.method public static onCreate(Ljava/lang/Object;Landroid/support/v4/media/MediaBrowserServiceCompatApi21$ServiceImplApi21;)V
+    .locals 1
+
+    move-object v0, p0
+
+    check-cast v0, Landroid/support/v4/media/MediaBrowserServiceCompatApi21$MediaBrowserServiceAdaptorApi21;
+
+    invoke-virtual {v0, p1}, Landroid/support/v4/media/MediaBrowserServiceCompatApi21$MediaBrowserServiceAdaptorApi21;->onCreate(Landroid/support/v4/media/MediaBrowserServiceCompatApi21$ServiceImplApi21;)V
+
+    return-void
+.end method

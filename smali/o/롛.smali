@@ -1,0 +1,38 @@
+.class final Lo/롛;
+.super Lo/uh;
+.source ""
+
+
+# direct methods
+.method constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Lo/uh;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final 鷭(Ljava/nio/ByteBuffer;IZI)V
+    .locals 1
+
+    const/16 v0, 0x9df
+
+    iput-short v0, p0, Lo/롛;->躆:S
+
+    invoke-virtual {p1}, Ljava/nio/ByteBuffer;->get()B
+
+    move-result p2
+
+    invoke-virtual {p1}, Ljava/nio/ByteBuffer;->getInt()I
+
+    if-eqz p3, :cond_0
+
+    return-void
+
+    :cond_0
+    invoke-static {p2}, Lo/둇;->鷭(B)V
+
+    return-void
+.end method
